@@ -29,6 +29,7 @@ Once you've forked it, click on Settings and rename your fork, because probably 
 You can also give it any 'ol name and GitHub will host it using this pattern: `username.github.io/reponame`. Or you can keep it named `hello` and find it at: `username.github.io/hello`.
 
 ### Make yours live
+###happy ending
 
 1. From your fork's page on GitHub, click the index.html link, then on the next page click Edit.
 2. Make changes to the HTML so that the site reflects your name and bio.
